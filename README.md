@@ -1,0 +1,2 @@
+# Digispark-scripts
+scripts
